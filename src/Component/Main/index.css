@@ -1,0 +1,43 @@
+.main-cont {
+  width: 100vw;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #223a5f;
+}
+
+.top-cont {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  color: white;
+  font-weight: bolder;
+  border: 1px solid white;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+.top-cont-p {
+  width:150px;
+}
+.top-cont-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body-cont {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.body-cont-btn12 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.popup-cont {
+  color: white;
+  margin-top: 40px;
+}

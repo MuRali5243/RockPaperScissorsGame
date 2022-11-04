@@ -1,0 +1,11 @@
+.btn-image {
+  width: 200px;
+  height: 200px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+}
+.list-item-cont {
+  list-style-type: none;
+}
